@@ -12,3 +12,5 @@ About Content:
 - 0N Series Contains Notes for Deep Learning on various topics
 
 - XN Series Notebook are special notebooks withh special topics.
+
+- PN Serier Notebooks are notebooks that are acompanied by code.
