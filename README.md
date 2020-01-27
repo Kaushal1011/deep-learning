@@ -5,6 +5,7 @@ Books Used to Scrape Out Theory and Notes:
 
 - Deep Learning with Python: Francois Chollet
 
+Compact go-to guide for the above mentioned books.Feel free to contribute :D.
 
 
 About Content:
